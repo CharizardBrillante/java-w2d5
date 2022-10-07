@@ -1,0 +1,200 @@
+ISBN: 10000000, Title: gedwl, Author: cuhtb, Genre: Romance, Year: 1975, Pages: 421
+ISBN: 10000001, Title: pkjbr, Year: 1994, Pages: 173, Periodicity: Weekly
+ISBN: 10000002, Title: zqpzwjpq, Author: ckhss, Genre: Romance, Year: 2013, Pages: 173
+ISBN: 10000003, Title: fxdnz, Year: 2015, Pages: 175, Periodicity: Half-yearly
+ISBN: 10000004, Title: atbncb, Author: feolmyr, Genre: Fantasy, Year: 2002, Pages: 460
+ISBN: 10000005, Title: axvgb, Year: 2014, Pages: 420, Periodicity: Half-yearly
+ISBN: 10000006, Title: cszulgp, Author: ymca, Genre: Romance, Year: 2002, Pages: 446
+ISBN: 10000007, Title: fayhrneb, Year: 2008, Pages: 406, Periodicity: Half-yearly
+ISBN: 10000008, Title: ndokprif, Author: yiublw, Genre: Romance, Year: 1995, Pages: 139
+ISBN: 10000009, Title: gohipt, Year: 2013, Pages: 249, Periodicity: Monthly
+ISBN: 10000010, Title: rhkqgr, Author: vtzbm, Genre: Horror, Year: 2005, Pages: 309
+ISBN: 10000011, Title: cpcjrel, Year: 1972, Pages: 319, Periodicity: Monthly
+ISBN: 10000012, Title: ynjniw, Author: hhkqpy, Genre: Romance, Year: 2001, Pages: 169
+ISBN: 10000013, Title: xsupdenr, Year: 2005, Pages: 292, Periodicity: Weekly
+ISBN: 10000014, Title: crpvsbh, Author: nmdvds, Genre: Romance, Year: 2018, Pages: 332
+ISBN: 10000015, Title: cqngmgn, Year: 1992, Pages: 121, Periodicity: Weekly
+ISBN: 10000016, Title: mdszkgll, Author: vnqt, Genre: Historical, Year: 1981, Pages: 202
+ISBN: 10000017, Title: iwnwsm, Year: 2004, Pages: 490, Periodicity: Monthly
+ISBN: 10000018, Title: gekwafln, Author: bkliyyo, Genre: Fantasy, Year: 2000, Pages: 305
+ISBN: 10000019, Title: mwlhw, Year: 2018, Pages: 295, Periodicity: Weekly
+ISBN: 10000020, Title: vcnw, Author: zmfwa, Genre: Fantasy, Year: 2011, Pages: 127
+ISBN: 10000021, Title: amoy, Year: 2014, Pages: 398, Periodicity: Monthly
+ISBN: 10000022, Title: rkddvwh, Author: dmzh, Genre: Historical, Year: 1984, Pages: 157
+ISBN: 10000023, Title: slkp, Year: 2017, Pages: 215, Periodicity: Weekly
+ISBN: 10000024, Title: nwotaba, Author: ipne, Genre: Horror, Year: 2010, Pages: 407
+ISBN: 10000025, Title: bsvdvprj, Year: 2008, Pages: 131, Periodicity: Monthly
+ISBN: 10000026, Title: dhredq, Author: jvxxanyl, Genre: Historical, Year: 2020, Pages: 379
+ISBN: 10000027, Title: ufkqytn, Year: 1986, Pages: 117, Periodicity: Monthly
+ISBN: 10000028, Title: hrxvuuj, Author: ealo, Genre: Fantasy, Year: 1988, Pages: 327
+ISBN: 10000029, Title: cbjjnnd, Year: 1975, Pages: 434, Periodicity: Weekly
+ISBN: 10000030, Title: qmim, Author: zltcngl, Genre: Horror, Year: 1995, Pages: 309
+ISBN: 10000031, Title: eaowbgcp, Year: 2010, Pages: 396, Periodicity: Monthly
+ISBN: 10000032, Title: luwttt, Author: gxrjtmo, Genre: Historical, Year: 1976, Pages: 369
+ISBN: 10000033, Title: qfcg, Year: 2007, Pages: 190, Periodicity: Monthly
+ISBN: 10000034, Title: ogoz, Author: fytcl, Genre: Fantasy, Year: 1972, Pages: 465
+ISBN: 10000035, Title: nzleqf, Year: 1970, Pages: 269, Periodicity: Monthly
+ISBN: 10000036, Title: jzyi, Author: mtlizfqp, Genre: Romance, Year: 2018, Pages: 187
+ISBN: 10000037, Title: rrbvqtg, Year: 1976, Pages: 173, Periodicity: Half-yearly
+ISBN: 10000038, Title: kveewja, Author: tzkwen, Genre: Romance, Year: 1987, Pages: 297
+ISBN: 10000039, Title: eazspo, Year: 1992, Pages: 127, Periodicity: Monthly
+ISBN: 10000040, Title: sxtlo, Author: pmsj, Genre: Fantasy, Year: 1988, Pages: 150
+ISBN: 10000041, Title: ynexyr, Year: 1985, Pages: 269, Periodicity: Monthly
+ISBN: 10000042, Title: rqbqzmf, Author: evcy, Genre: Romance, Year: 1997, Pages: 445
+ISBN: 10000043, Title: lpenmq, Year: 2000, Pages: 483, Periodicity: Half-yearly
+ISBN: 10000044, Title: fluf, Author: fxrdxt, Genre: Horror, Year: 1998, Pages: 367
+ISBN: 10000045, Title: kejhujh, Year: 2009, Pages: 435, Periodicity: Monthly
+ISBN: 10000046, Title: kikoh, Author: gxdz, Genre: Romance, Year: 2017, Pages: 140
+ISBN: 10000047, Title: kbzdx, Year: 2004, Pages: 150, Periodicity: Monthly
+ISBN: 10000048, Title: xtjl, Author: gtms, Genre: Romance, Year: 2012, Pages: 291
+ISBN: 10000049, Title: bgwbgan, Year: 2006, Pages: 468, Periodicity: Monthly
+ISBN: 10000050, Title: ovfvlroi, Author: wttw, Genre: Horror, Year: 1971, Pages: 245
+ISBN: 10000051, Title: nfku, Year: 1982, Pages: 160, Periodicity: Weekly
+ISBN: 10000052, Title: tahlf, Author: bxwbjih, Genre: Fantasy, Year: 1971, Pages: 100
+ISBN: 10000053, Title: egddjs, Year: 2016, Pages: 443, Periodicity: Monthly
+ISBN: 10000054, Title: bgdjfy, Author: wzrgjemc, Genre: Romance, Year: 1998, Pages: 333
+ISBN: 10000055, Title: xmtkh, Year: 1974, Pages: 145, Periodicity: Half-yearly
+ISBN: 10000056, Title: qqjznes, Author: ytdh, Genre: Horror, Year: 1996, Pages: 306
+ISBN: 10000057, Title: hoepoape, Year: 2017, Pages: 231, Periodicity: Weekly
+ISBN: 10000058, Title: nypb, Author: anarve, Genre: Romance, Year: 2010, Pages: 425
+ISBN: 10000059, Title: iaoiibh, Year: 2010, Pages: 418, Periodicity: Weekly
+ISBN: 10000060, Title: zxzv, Author: qfawu, Genre: Fantasy, Year: 2001, Pages: 460
+ISBN: 10000061, Title: tild, Year: 2003, Pages: 415, Periodicity: Half-yearly
+ISBN: 10000062, Title: btksrsmp, Author: pcdr, Genre: Historical, Year: 1998, Pages: 324
+ISBN: 10000063, Title: qumoy, Year: 2005, Pages: 256, Periodicity: Monthly
+ISBN: 10000064, Title: rydmfuc, Author: ponsp, Genre: Romance, Year: 1998, Pages: 248
+ISBN: 10000065, Title: zectg, Year: 1976, Pages: 290, Periodicity: Weekly
+ISBN: 10000066, Title: thjrtn, Author: vyvddt, Genre: Romance, Year: 1976, Pages: 413
+ISBN: 10000067, Title: kbjiw, Year: 1978, Pages: 500, Periodicity: Half-yearly
+ISBN: 10000068, Title: ndfqwh, Author: aqjyhkpa, Genre: Horror, Year: 2008, Pages: 327
+ISBN: 10000069, Title: zavgtib, Year: 1981, Pages: 268, Periodicity: Weekly
+ISBN: 10000070, Title: wwloyfc, Author: wfrwa, Genre: Horror, Year: 2002, Pages: 331
+ISBN: 10000071, Title: cojy, Year: 2020, Pages: 233, Periodicity: Monthly
+ISBN: 10000072, Title: bcmbamyl, Author: ohew, Genre: Historical, Year: 2006, Pages: 253
+ISBN: 10000073, Title: sohqpg, Year: 2004, Pages: 210, Periodicity: Weekly
+ISBN: 10000074, Title: gklnxwh, Author: mroximxg, Genre: Historical, Year: 2010, Pages: 203
+ISBN: 10000075, Title: rzrgrjmr, Year: 1996, Pages: 160, Periodicity: Half-yearly
+ISBN: 10000076, Title: kikent, Author: pmmgd, Genre: Fantasy, Year: 1999, Pages: 270
+ISBN: 10000077, Title: ujewfckb, Year: 1995, Pages: 231, Periodicity: Half-yearly
+ISBN: 10000078, Title: ogquj, Author: eewzrgtp, Genre: Fantasy, Year: 2022, Pages: 234
+ISBN: 10000079, Title: ywbj, Year: 1989, Pages: 423, Periodicity: Half-yearly
+ISBN: 10000080, Title: bnvfwtdf, Author: hafch, Genre: Romance, Year: 1976, Pages: 284
+ISBN: 10000081, Title: khibbmt, Year: 1990, Pages: 457, Periodicity: Weekly
+ISBN: 10000082, Title: tczp, Author: hpmai, Genre: Romance, Year: 2019, Pages: 337
+ISBN: 10000083, Title: piupvi, Year: 1999, Pages: 222, Periodicity: Monthly
+ISBN: 10000084, Title: hgspz, Author: pltfvnv, Genre: Historical, Year: 2012, Pages: 466
+ISBN: 10000085, Title: uoqknv, Year: 1991, Pages: 103, Periodicity: Half-yearly
+ISBN: 10000086, Title: msci, Author: igwhahlq, Genre: Fantasy, Year: 2014, Pages: 452
+ISBN: 10000087, Title: olxnkcp, Year: 2018, Pages: 251, Periodicity: Monthly
+ISBN: 10000088, Title: gmblh, Author: qqvvf, Genre: Fantasy, Year: 2001, Pages: 441
+ISBN: 10000089, Title: oiyqovcy, Year: 1981, Pages: 165, Periodicity: Weekly
+ISBN: 10000090, Title: etzq, Author: vgxyrjs, Genre: Fantasy, Year: 1992, Pages: 328
+ISBN: 10000091, Title: szndzvhn, Year: 1984, Pages: 145, Periodicity: Monthly
+ISBN: 10000092, Title: ncqf, Author: plucxgm, Genre: Horror, Year: 2019, Pages: 469
+ISBN: 10000093, Title: uifzge, Year: 2019, Pages: 437, Periodicity: Weekly
+ISBN: 10000094, Title: ajidztrc, Author: ymmjf, Genre: Historical, Year: 2021, Pages: 360
+ISBN: 10000095, Title: wnengzso, Year: 1995, Pages: 200, Periodicity: Monthly
+ISBN: 10000096, Title: zzxpf, Author: zwhy, Genre: Romance, Year: 1988, Pages: 169
+ISBN: 10000097, Title: wnwuq, Year: 2005, Pages: 191, Periodicity: Monthly
+ISBN: 10000098, Title: gobcffc, Author: zcdnu, Genre: Horror, Year: 2013, Pages: 234
+ISBN: 10000099, Title: gpfnmanx, Year: 1998, Pages: 196, Periodicity: Half-yearly
+ISBN: 10000100, Title: momb, Author: qsjo, Genre: Fantasy, Year: 1970, Pages: 421
+ISBN: 10000101, Title: unfhh, Year: 1984, Pages: 420, Periodicity: Half-yearly
+ISBN: 10000102, Title: itur, Author: hzjscrr, Genre: Romance, Year: 1984, Pages: 110
+ISBN: 10000103, Title: ngdchn, Year: 1974, Pages: 215, Periodicity: Monthly
+ISBN: 10000104, Title: bxkegjmn, Author: toer, Genre: Fantasy, Year: 2015, Pages: 132
+ISBN: 10000105, Title: kopi, Year: 2018, Pages: 145, Periodicity: Half-yearly
+ISBN: 10000106, Title: yrwxw, Author: tzomyh, Genre: Romance, Year: 2003, Pages: 222
+ISBN: 10000107, Title: sxngt, Year: 1973, Pages: 355, Periodicity: Monthly
+ISBN: 10000108, Title: ouqf, Author: izhziodl, Genre: Fantasy, Year: 2019, Pages: 226
+ISBN: 10000109, Title: tfbimsts, Year: 1982, Pages: 152, Periodicity: Half-yearly
+ISBN: 10000110, Title: vsviatz, Author: ghovlg, Genre: Horror, Year: 2014, Pages: 288
+ISBN: 10000111, Title: ogpvi, Year: 2000, Pages: 123, Periodicity: Half-yearly
+ISBN: 10000112, Title: xjniqm, Author: iswce, Genre: Romance, Year: 1977, Pages: 300
+ISBN: 10000113, Title: hqfuwxv, Year: 1985, Pages: 363, Periodicity: Half-yearly
+ISBN: 10000114, Title: zgkacrin, Author: xcfg, Genre: Horror, Year: 2000, Pages: 460
+ISBN: 10000115, Title: wjgdidnd, Year: 1972, Pages: 179, Periodicity: Weekly
+ISBN: 10000116, Title: bqgby, Author: jvggatyv, Genre: Historical, Year: 1997, Pages: 350
+ISBN: 10000117, Title: rmig, Year: 1976, Pages: 116, Periodicity: Half-yearly
+ISBN: 10000118, Title: aqqd, Author: zxkh, Genre: Romance, Year: 2000, Pages: 337
+ISBN: 10000119, Title: fuzzotba, Year: 2018, Pages: 277, Periodicity: Monthly
+ISBN: 10000120, Title: rtikhw, Author: xvsxhp, Genre: Romance, Year: 1992, Pages: 234
+ISBN: 10000121, Title: xyilbub, Year: 2016, Pages: 327, Periodicity: Weekly
+ISBN: 10000122, Title: uyubih, Author: utcjbxo, Genre: Historical, Year: 2003, Pages: 221
+ISBN: 10000123, Title: ahknasot, Year: 1994, Pages: 171, Periodicity: Weekly
+ISBN: 10000124, Title: iowlgobd, Author: errjg, Genre: Historical, Year: 1974, Pages: 429
+ISBN: 10000125, Title: olmb, Year: 2011, Pages: 103, Periodicity: Weekly
+ISBN: 10000126, Title: dztcb, Author: mtvlzgkx, Genre: Romance, Year: 1982, Pages: 180
+ISBN: 10000127, Title: dacccyj, Year: 1978, Pages: 351, Periodicity: Weekly
+ISBN: 10000128, Title: srlugdrt, Author: ogtgx, Genre: Romance, Year: 2018, Pages: 458
+ISBN: 10000129, Title: eejxj, Year: 2005, Pages: 400, Periodicity: Weekly
+ISBN: 10000130, Title: elijh, Author: nqhs, Genre: Horror, Year: 1982, Pages: 138
+ISBN: 10000131, Title: bsdsw, Year: 1978, Pages: 285, Periodicity: Half-yearly
+ISBN: 10000132, Title: brqrjoj, Author: wavigdqd, Genre: Horror, Year: 1985, Pages: 373
+ISBN: 10000133, Title: fpio, Year: 2001, Pages: 282, Periodicity: Weekly
+ISBN: 10000134, Title: sjochibq, Author: ssrmvgo, Genre: Historical, Year: 2012, Pages: 258
+ISBN: 10000135, Title: ipzrucq, Year: 1977, Pages: 204, Periodicity: Weekly
+ISBN: 10000136, Title: giwi, Author: aeuqilwz, Genre: Fantasy, Year: 2002, Pages: 375
+ISBN: 10000137, Title: sjduzjki, Year: 1989, Pages: 451, Periodicity: Weekly
+ISBN: 10000138, Title: wxrvlah, Author: kkhmx, Genre: Horror, Year: 2011, Pages: 358
+ISBN: 10000139, Title: sahnyks, Year: 1993, Pages: 399, Periodicity: Half-yearly
+ISBN: 10000140, Title: qirdsojl, Author: bnzf, Genre: Historical, Year: 1978, Pages: 385
+ISBN: 10000141, Title: vyyubhqk, Year: 2002, Pages: 172, Periodicity: Monthly
+ISBN: 10000142, Title: taotywn, Author: qqgehavv, Genre: Fantasy, Year: 2000, Pages: 205
+ISBN: 10000143, Title: vwasl, Year: 1978, Pages: 385, Periodicity: Monthly
+ISBN: 10000144, Title: gcnffpo, Author: bukv, Genre: Fantasy, Year: 2011, Pages: 153
+ISBN: 10000145, Title: shmtpog, Year: 1973, Pages: 392, Periodicity: Half-yearly
+ISBN: 10000146, Title: vbyrp, Author: hyyxljz, Genre: Romance, Year: 2011, Pages: 372
+ISBN: 10000147, Title: ourhctj, Year: 1974, Pages: 234, Periodicity: Monthly
+ISBN: 10000148, Title: swgnwlg, Author: blhh, Genre: Horror, Year: 1970, Pages: 290
+ISBN: 10000149, Title: uhtcil, Year: 1971, Pages: 379, Periodicity: Monthly
+ISBN: 10000150, Title: kkkbsi, Author: clsy, Genre: Romance, Year: 2020, Pages: 180
+ISBN: 10000151, Title: lyxu, Year: 1996, Pages: 349, Periodicity: Weekly
+ISBN: 10000152, Title: guftlltx, Author: xdggbhip, Genre: Fantasy, Year: 2008, Pages: 244
+ISBN: 10000153, Title: ootkpb, Year: 2022, Pages: 337, Periodicity: Half-yearly
+ISBN: 10000154, Title: vbxszir, Author: hrrhrbq, Genre: Historical, Year: 1998, Pages: 100
+ISBN: 10000155, Title: krkmnhr, Year: 1988, Pages: 406, Periodicity: Weekly
+ISBN: 10000156, Title: shcxypo, Author: vdngq, Genre: Horror, Year: 2001, Pages: 257
+ISBN: 10000157, Title: vimlg, Year: 1995, Pages: 121, Periodicity: Monthly
+ISBN: 10000158, Title: dvgk, Author: oidxcka, Genre: Horror, Year: 1972, Pages: 149
+ISBN: 10000159, Title: ilawo, Year: 1997, Pages: 247, Periodicity: Half-yearly
+ISBN: 10000160, Title: bswshm, Author: uyhcih, Genre: Horror, Year: 1980, Pages: 145
+ISBN: 10000161, Title: vszi, Year: 2000, Pages: 360, Periodicity: Monthly
+ISBN: 10000162, Title: drwqvbco, Author: sikcphi, Genre: Historical, Year: 1973, Pages: 101
+ISBN: 10000163, Title: vfqjp, Year: 2004, Pages: 487, Periodicity: Weekly
+ISBN: 10000164, Title: bhkdkdw, Author: zhubnszk, Genre: Horror, Year: 1985, Pages: 228
+ISBN: 10000165, Title: qplmnrve, Year: 1992, Pages: 361, Periodicity: Monthly
+ISBN: 10000166, Title: rlcapda, Author: piqxe, Genre: Horror, Year: 2011, Pages: 492
+ISBN: 10000167, Title: uapnx, Year: 1999, Pages: 318, Periodicity: Weekly
+ISBN: 10000168, Title: zxxp, Author: bycpwkle, Genre: Fantasy, Year: 1993, Pages: 290
+ISBN: 10000169, Title: mpmzot, Year: 1982, Pages: 116, Periodicity: Weekly
+ISBN: 10000170, Title: ehvtw, Author: hxcfjho, Genre: Historical, Year: 1996, Pages: 430
+ISBN: 10000171, Title: jcit, Year: 1999, Pages: 272, Periodicity: Half-yearly
+ISBN: 10000172, Title: fygh, Author: qpis, Genre: Romance, Year: 1985, Pages: 420
+ISBN: 10000173, Title: zkbnkteu, Year: 2013, Pages: 128, Periodicity: Half-yearly
+ISBN: 10000174, Title: iftmj, Author: ptbpa, Genre: Historical, Year: 2013, Pages: 102
+ISBN: 10000175, Title: fwsh, Year: 2010, Pages: 383, Periodicity: Half-yearly
+ISBN: 10000176, Title: svnrpdci, Author: xaepa, Genre: Fantasy, Year: 1997, Pages: 277
+ISBN: 10000177, Title: zbdw, Year: 2007, Pages: 388, Periodicity: Half-yearly
+ISBN: 10000178, Title: jfwopj, Author: coesyg, Genre: Fantasy, Year: 2006, Pages: 173
+ISBN: 10000179, Title: wqmghj, Year: 1998, Pages: 340, Periodicity: Half-yearly
+ISBN: 10000180, Title: hkluq, Author: lakxramq, Genre: Romance, Year: 2021, Pages: 487
+ISBN: 10000181, Title: kijfbfv, Year: 1978, Pages: 226, Periodicity: Monthly
+ISBN: 10000182, Title: oeybqfv, Author: kuvgrn, Genre: Historical, Year: 1995, Pages: 236
+ISBN: 10000183, Title: iiwf, Year: 1983, Pages: 144, Periodicity: Half-yearly
+ISBN: 10000184, Title: vorkxhql, Author: hxrr, Genre: Romance, Year: 1976, Pages: 279
+ISBN: 10000185, Title: gfvu, Year: 2022, Pages: 454, Periodicity: Half-yearly
+ISBN: 10000186, Title: gqwxgxk, Author: fbncfxmc, Genre: Horror, Year: 1988, Pages: 102
+ISBN: 10000187, Title: xvdcw, Year: 1998, Pages: 462, Periodicity: Half-yearly
+ISBN: 10000188, Title: kmcxl, Author: xreun, Genre: Fantasy, Year: 2013, Pages: 190
+ISBN: 10000189, Title: iwfhnw, Year: 2018, Pages: 469, Periodicity: Weekly
+ISBN: 10000190, Title: ycgb, Author: eubhhvzz, Genre: Fantasy, Year: 1976, Pages: 262
+ISBN: 10000191, Title: sdwbnp, Year: 2018, Pages: 182, Periodicity: Monthly
+ISBN: 10000192, Title: seeihcxv, Author: xryek, Genre: Fantasy, Year: 2007, Pages: 403
+ISBN: 10000193, Title: vudkcl, Year: 1997, Pages: 184, Periodicity: Weekly
+ISBN: 10000194, Title: kivapiww, Author: zxwoks, Genre: Historical, Year: 2003, Pages: 342
+ISBN: 10000195, Title: ugjfzlx, Year: 1998, Pages: 336, Periodicity: Half-yearly
+ISBN: 10000196, Title: sbzcwabi, Author: rkfstsz, Genre: Historical, Year: 1974, Pages: 254
+ISBN: 10000197, Title: hiwrh, Year: 2010, Pages: 438, Periodicity: Weekly
+ISBN: 10000198, Title: cptmu, Author: wmagdf, Genre: Horror, Year: 2007, Pages: 121
+ISBN: 10000199, Title: wmnrjkv, Year: 1995, Pages: 323, Periodicity: Monthly
